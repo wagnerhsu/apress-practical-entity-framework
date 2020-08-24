@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30002.166
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Activity0202_ExistingDbNetFrameworkEF6", "Activity0202_ExistingDbNetFrameworkEF6\Activity0202_ExistingDbNetFrameworkEF6.csproj", "{5E67BEA5-3399-42A1-B856-60CACCA055B4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EF_Activity01_NetFramework", "EF_Activity01_NetFramework\EF_Activity01_NetFramework.csproj", "{5FC5AB47-39C7-4660-AB92-3D3FC0E87503}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E67BEA5-3399-42A1-B856-60CACCA055B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E67BEA5-3399-42A1-B856-60CACCA055B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E67BEA5-3399-42A1-B856-60CACCA055B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E67BEA5-3399-42A1-B856-60CACCA055B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FC5AB47-39C7-4660-AB92-3D3FC0E87503}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FC5AB47-39C7-4660-AB92-3D3FC0E87503}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FC5AB47-39C7-4660-AB92-3D3FC0E87503}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FC5AB47-39C7-4660-AB92-3D3FC0E87503}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D76CC5A5-E85A-40F5-A1AE-3425BDA5284E}
+	EndGlobalSection
+EndGlobal
